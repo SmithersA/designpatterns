@@ -1,4 +1,7 @@
+{% include head.html %}
+
 {% include header.html %}
+
 <div class="pl-header navbar navbar-inverse pl-no-sidebar">
     <div class="container-fluid">
         <ul class="nav navbar-nav nav-pills navbar-right">
@@ -8,9 +11,12 @@
         </ul>
     </div>
 </div>
+
 {{content}}
+
 <div class="pl-help">
     <h4>Need help? Questions or concerns?</h4>
     <p>Create an issue on our <a href="{{site.repository.url}}">Github repository</a> or <a href="mailto:{{site.email}}">email us</a>. </p>
 </div>
+
 {% include footer.html %}
