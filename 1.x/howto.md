@@ -42,11 +42,11 @@ A basic HTML template using UI Design Library would look like this:
 <html>
 <head>
 <title>UI Design Library </title>
-<!-- USPTO Pattern Library CSS -->
+<!-- Pattern Library CSS -->
 <link rel="stylesheet" type="text/css" href="css/usptostrap.min.css">
 </head>
 <body>
-<h1>Welcome to USPTO</h1>
+<h1>Welcome !!</h1>
 </body>
 </html>
 ```
@@ -56,11 +56,11 @@ A basic HTML template using UI Design Library would look like this:
 <html>
 <head>
 <title>UI Design Library </title>
-<!-- USPTO Pattern Library CSS -->
+<!-- Pattern Library CSS -->
 <link rel="stylesheet" type="text/css" href="css/usptostrap.min.css">
 </head>
 <body>
-<h1>Welcome to USPTO</h1>
+<h1>Welcome !!</h1>
 <!-- jQuery library -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 <!-- Latest compiled JavaScript -->
@@ -75,13 +75,13 @@ All third party style sheets should be included after the UI Design Library CSS 
 <html>
 <head>
 <title>UI Design Library </title>
-<!-- USPTO Pattern Library CSS -->
+<!-- Pattern Library CSS -->
 <link rel="stylesheet" type="text/css" href="css/usptostrap.min.css">
-<!-- USPTO Global Header CSS -->
+<!-- Global Header CSS -->
 <link rel="stylesheet" type="text/css" href="css/uspto-header-styles.min.css">
 </head>
 <body>
-<h1>Welcome to USPTO</h1>
+<h1>Welcome !!</h1>
 </body>
 </html>
 ```
@@ -92,15 +92,15 @@ To apply additional styling to your web application, simply add the proper code 
 <html>
 <head>
 <title>UI Design Library </title>
-<!-- USPTO Pattern Library CSS -->
+<!-- Pattern Library CSS -->
 <link rel="stylesheet" type="text/css" href="css/usptostrap.min.css">
-<!-- USPTO Global Header CSS -->
+<!-- Global Header CSS -->
 <link rel="stylesheet" type="text/css" href="css/uspto-header-styles.min.css">
 <!-- Custom CSS -->
 <link rel="stylesheet" type="text/css" href="css/custom-styles.css">
 </head>
 <body>
-<h1>Welcome to USPTO</h1>
+<h1>Welcome !!</h1>
 </body>
 </html>
 ```
