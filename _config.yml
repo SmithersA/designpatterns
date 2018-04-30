@@ -45,8 +45,7 @@ defaults:
       layout: "guide"
 
 # Repository information, which is used for links like "View on Github"
-repository:
-  name: SmithersA/designpatterns
+repo_name: SmithersA/designpatterns
 
 # The latest stable version
 version: 1.6.1
