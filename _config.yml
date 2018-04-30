@@ -23,8 +23,12 @@ kramdown:
   auto_ids: true
   parse_block_html: true
 
+# Site settings
+title: UI Design Patterns
+description: Basic HTML and CSS for NMAAHC UI
 # All links in the design library will start with this baseurl
 baseurl: "/designpatterns"
+url: ""
 
 # The url for the home page of the design library
 homeurl: "/designpatterns"
@@ -40,13 +44,9 @@ defaults:
     values:
       layout: "guide"
 
-# All email links will use this variable
-email: contactUXD@uspto.gov?subject=USPTO UI Design Library
-
 # Repository information, which is used for links like "View on Github"
 repository:
-  name: uspto/designpatterns
-  url: https://github.com/uspto/designpatterns
+  name: SmithersA/designpatterns
 
 # The latest stable version
 version: 1.6.1
