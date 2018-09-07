@@ -13,8 +13,9 @@ Have feedback or questions about the UI Design Library? [Create an issue!](https
 
 This is a source code repository for the [UI Design Library](https://SmithersA.github.io/designpatterns/). The site is powered by [Jekyll](http://jekyllrb.com/), a static site generator that plays well with [Github Pages](https://help.github.com/articles/using-jekyll-with-pages/). 
 
-#### Want to contribute?
-See our [CONTRIBUTING.md](CONTRIBUTING.md) file for contribution guidelines.
+#### Why does this repository exist?
+
+This is a test prototype for storing design patterns with code
 
 ---
 
